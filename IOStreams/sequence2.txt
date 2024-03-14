@@ -1,0 +1,1 @@
+laptop [name=hp, inches=7, price=60000.0, getName()=hp, getInches()=7, getPrice()=60000.0]

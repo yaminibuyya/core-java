@@ -1,0 +1,6 @@
+Employee [id=678, name=pooj, salary=7800.0, getId()=678, getName()=pooj, getSalary()=7800.0]
+Employee [id=898, name=afreen, salary=94677.0, getId()=898, getName()=afreen, getSalary()=94677.0]
+Employee [id=234, name=raji, salary=9999.0, getId()=234, getName()=raji, getSalary()=9999.0]
+Employee [id=4, name=sunitha, salary=50000.0, getId()=4, getName()=sunitha, getSalary()=50000.0]
+Employee [id=5, name=Mahesh, salary=60000.0, getId()=5, getName()=Mahesh, getSalary()=60000.0]
+Employee [id=6, name=Ramesh, salary=70000.0, getId()=6, getName()=Ramesh, getSalary()=70000.0]

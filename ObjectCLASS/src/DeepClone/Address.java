@@ -1,0 +1,37 @@
+package DeepClone;
+
+public class Address implements Cloneable {
+
+		private String city;
+		private String state;
+		
+		public Address(String city,String state) {
+			this.city=city;
+			this.state=state;	
+		}
+		public String getCity() {
+			return city;	
+		}
+		public void setcity(String city) {
+			this.city=city;
+		}
+		public String getState() {
+			return state;
+		}
+	    public void setState(String state) {
+	    	this.state=state;
+	    }
+	    public String toString() {
+	    	return "Address[city=" +city+ ",state=" +state+ ",getCity()=" +getCity()+ ",getstate()="+getState()+ "]";
+	    }
+		
+		@Override
+		protected Object clone() throws CloneNotSupportedException {
+		// TODO Auto-generated method stub
+		return super.clone();
+		}
+	    
+	    
+		
+	
+}

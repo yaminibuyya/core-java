@@ -1,0 +1,1 @@
+Employee [id=4, name=yamini, salary=65000.0, getId()=4, getName()=yamini, getSalary()=65000.0]

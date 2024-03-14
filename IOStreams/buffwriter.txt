@@ -1,0 +1,3 @@
+laptop [name=dell, inches=8, price=55000.0, getName()=dell, getInches()=8, getPrice()=55000.0]
+laptop [name=apple, inches=5, price=90000.0, getName()=apple, getInches()=5, getPrice()=90000.0]
+laptop [name=asus, inches=6, price=75000.0, getName()=asus, getInches()=6, getPrice()=75000.0]

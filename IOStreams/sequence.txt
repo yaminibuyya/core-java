@@ -1,0 +1,1 @@
+vehicle [name=tata, number=78999, color=black, getName()=tata, getNumber()=78999,getcolor()=black]
